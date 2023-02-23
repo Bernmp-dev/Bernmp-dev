@@ -3,6 +3,7 @@ Hi there :octocat:
 <div> 
 <h3>
 Email: Bernardomp.dev@gmail.com
+  <br>
 LinkedIn: https://www.linkedin.com/in/bernardo-marquesp/
 </h3>
 </div>
