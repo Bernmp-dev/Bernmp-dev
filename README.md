@@ -1,5 +1,12 @@
 Hi there :octocat:
 
+<div> 
+<h3>
+Email: Bernardomp.dev@gmail.com
+LinkedIn: https://www.linkedin.com/in/bernardo-marquesp/
+</h3>
+</div>
+
 <div align="center">
   <a href="https://github.com/Bernmp-dev">
     <img 
