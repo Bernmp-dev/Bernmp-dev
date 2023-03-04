@@ -1,6 +1,7 @@
 Hi there :octocat:
 
 <div> 
+  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="bernardo-marquesp"     data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/bernardo-marquesp?trk=profile-badge">Bernardo Marques</a></div>              
 <h3>
 Email: Bernardomp.dev@gmail.com
   <br>
