@@ -3,7 +3,7 @@ Hi there :octocat:
 <div> 
               
 <h3>
-  <a href="mailto:bernardomp.dev@gmail.com?subject=Quero%20fazer%20contato!&body=Ol%C3%A1%2C%20Bernardo!%20Proponho%20conversarmos.">Clique aqui para me enviar um e-mail</a>
+  Bernardomp.dev@gmail.com
   <br>
   <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/bernardo-marquesp?trk=profile-badge">Linked In</a>
 </h3>
