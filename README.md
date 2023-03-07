@@ -47,7 +47,6 @@ Bernardomp.dev@gmail.com
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-pink?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Eth](https://img.shields.io/badge/ethereum-2F3134?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Linux](https://img.shields.io/badge/Unity-FCC624?style=for-the-badge&logo=unity&logoColor=black)
 
 ## 🧪 Tests
 
