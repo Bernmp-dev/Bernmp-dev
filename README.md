@@ -46,8 +46,6 @@ Bernardomp.dev@gmail.com
 ![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&&logo=Docker)
 ![Docker_Compose](https://img.shields.io/badge/Docker_Compose-white?style=for-the-badge&&logo=Docker)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&&logo=Redux&logoColor=white)
-![Redux_Thunk](https://img.shields.io/badge/Redux_Thunk-593D88?style=for-the-badge&&logo=Redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-pink?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Eth](https://img.shields.io/badge/ethereum-2F3134?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
