@@ -2,10 +2,4 @@
 *.sql linguist-language=sql
 
 *.jsx linguist-detectable=true
-*.jsx linguist-language=React.js
-
-*.test.js linguist-detectable=true
-*.test.js linguist-language=Test
-
-*.spec.js linguist-detectable=true
-*.spec.js linguist-language=Test
+*.jsx linguist-language=JavaScript
