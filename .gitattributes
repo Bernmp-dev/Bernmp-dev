@@ -1,5 +1,8 @@
 *.sql linguist-detectable=true
 *.sql linguist-language=sql
 
+*.js linguist-detectable=true
+*.js linguist-language=JavaScript
+
 *.jsx linguist-detectable=true
 *.jsx linguist-language=JavaScript
