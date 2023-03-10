@@ -1,12 +1,15 @@
-
-<div align="center">
+<div >
+  <a href="https://github.com/Bernmp-dev" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernmp-dev&layout=compact&langs_count=7&theme=react&" height="195" >
+  </a>
   <a href="https://github.com/Bernmp-dev">
-    <img 
-      height="160em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernmp-dev&layout=compact&langs_count=7&theme=react"
-    />
-    <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=Bernmp-dev&count_private=true&show_icons=true&theme=react" />    
+    <img src="https://github-readme-stats.vercel.app/api?username=Bernmp-dev&count_private=true&show_icons=true&theme=react&">
+  </a>
 </div>
+
+<!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernmp-dev&layout=compact&langs_count=7&theme=react&height=160)](https://github.com/Bernmp-dev)
+[![](https://github-readme-stats.vercel.app/api?username=Bernmp-dev&count_private=true&show_icons=true&theme=react&height=100)](https://github.com/Bernmp-dev) -->
+
 
 ## 🚀 About Me
 
