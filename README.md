@@ -7,6 +7,8 @@
   </a>
 </div>
 
+![](https://komarev.com/ghpvc/?username=Bernmp-dev&label=PROFILE+VIEWS&style=for-the-badge)
+
 <!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernmp-dev&layout=compact&langs_count=7&theme=react&height=160)](https://github.com/Bernmp-dev)
 [![](https://github-readme-stats.vercel.app/api?username=Bernmp-dev&count_private=true&show_icons=true&theme=react&height=100)](https://github.com/Bernmp-dev) -->
 
@@ -27,10 +29,9 @@ Bernardomp.dev@gmail.com
 
 ## 🔗 Links
 
-[![github](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/Bernmp-dev)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-marquesp/)
-![github](https://img.shields.io/badge/bernardomp.dev@gmail.com-813?style=flat&logo=gmail&logoColor=white)
-
+[![github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bernmp-dev)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-marquesp/)
+![github](https://img.shields.io/badge/bernardomp.dev@gmail.com-813?style=for-the-badge&logo=gmail&logoColor=white)
 
 ## 🛠 Skills
 
