@@ -7,7 +7,7 @@
   </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=Bernmp-dev&label=PROFILE+VIEWS&style=for-the-badge)
+<!-- ![](https://komarev.com/ghpvc/?username=Bernmp-dev&label=PROFILE+VIEWS&style=for-the-badge)
 
 <!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernmp-dev&layout=compact&langs_count=7&theme=react&height=160)](https://github.com/Bernmp-dev)
 [![](https://github-readme-stats.vercel.app/api?username=Bernmp-dev&count_private=true&show_icons=true&theme=react&height=100)](https://github.com/Bernmp-dev) -->
