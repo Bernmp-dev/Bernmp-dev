@@ -37,18 +37,15 @@ Bernardomp.dev@gmail.com
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&&logo=javaScript&logoColor=black)
 ![Java](https://img.shields.io/badge/java-F7DF1E?style=for-the-badge&logo=openjdk&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&&logo=css3&logoColor=white)
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&&logo=html5&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&&logo=React)
-![React_Hooks](https://img.shields.io/badge/React_Hooks-20232A?style=for-the-badge&&logo=react)
-![Context_API.js](https://img.shields.io/badge/Context_API-20232A?style=for-the-badge&&logo=react)
-![React_Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-lightgrey?style=for-the-badge&&logo=Node.js)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&&logo=React)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&&logo=MySQL)
 ![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&&logo=Docker)
-![Docker_Compose](https://img.shields.io/badge/Docker_Compose-white?style=for-the-badge&&logo=Docker)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&&logo=Redux&logoColor=white)
-![Eth](https://img.shields.io/badge/ethereum-2F3134?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🧪 Tests
