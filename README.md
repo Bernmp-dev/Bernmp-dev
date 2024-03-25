@@ -12,21 +12,6 @@
 <!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernmp-dev&layout=compact&langs_count=7&theme=react&height=160)](https://github.com/Bernmp-dev)
 [![](https://github-readme-stats.vercel.app/api?username=Bernmp-dev&count_private=true&show_icons=true&theme=react&height=100)](https://github.com/Bernmp-dev) -->
 
-
-## 🚀 About Me
-
-My mission is to positively impact the lives of the people I interact with by aligning my communication, adaptation, and problem-solving skills.
-
-As a developer, my goal is to build technological solutions that not only solve problems, but also transform the way people live and work.
-I have a passion for exploring new technologies and applying them to achieve meaningful results.
-
-In addition, I am constantly learning about emerging technologies such as Web3, DeFi, NFT, Blockchain, and Crypto to stay one step ahead.
-Recently, I worked on the construction of Ethereum mining machines, up to the “The Merge” update.
-
-If you're looking for a programmer willing to find the best solutions, talk to me.
-
-Bernardomp.dev@gmail.com
-
 ## 🔗 Links
 
 [![github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bernmp-dev)
